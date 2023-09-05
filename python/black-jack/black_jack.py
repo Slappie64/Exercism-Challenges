@@ -4,7 +4,7 @@ How to play blackjack:    https://bicyclecards.com/how-to-play/blackjack/
 "Standard" playing cards: https://en.wikipedia.org/wiki/Standard_52-card_deck
 """
 
-
+# TODO: This is a test todo
 def value_of_card(card):
     """Determine the scoring value of a card.
 
