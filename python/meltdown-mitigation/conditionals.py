@@ -13,10 +13,7 @@ def is_criticality_balanced(temperature, neutrons_emitted):
     - The number of neutrons emitted per second is greater than 500.
     - The product of temperature and neutrons emitted per second is less than 500000.
     """
-    if temperature < 800 and neutrons_emitted > 500 and temperature * neutrons_emitted < 500000:
-        return True
-    else:
-        return False
+    return temperature < 800 and neutrons_emitted > 500 and temperature * neutrons_emitted < 500000
 
 
 def reactor_efficiency(voltage, current, theoretical_max_power):
@@ -34,7 +31,7 @@ def reactor_efficiency(voltage, current, theoretical_max_power):
     3. red -> efficiency below 60%, but still 30% or more,
     4. black ->  less than 30% efficient.
 
-    The percentage value is calculated as
+    The percentage value is calculated ase
     (generated power/ theoretical max power)*100
     where generated power = voltage * current
     """
