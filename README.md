@@ -10,7 +10,7 @@ Exercism is an online learning platform that offers a wide range of coding exerc
 
 In this repository, I will be:
 
-1. **Completing Daily Challenges:** Every day, I will select a Python challenge from Exercism and attempt to solve it. The challenges cover a wide range of topics and difficulty levels, making it an excellent resource for Python enthusiasts of all levels.
+1. **Completing Daily Challenges:** Every day, I will select a challenge from Exercism and attempt to solve it. The challenges cover a wide range of topics and difficulty levels, making it an excellent resource for coding enthusiasts of all levels.
 
 2. **Documenting My Solutions:** I will document my thought process, approach, and the code I write to solve each challenge. You can find detailed explanations in the corresponding subdirectories.
 
