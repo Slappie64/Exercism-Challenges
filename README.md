@@ -48,5 +48,5 @@ If you have any questions, feedback, or just want to say hello, feel free to ope
 
 Happy coding!
 
-**Your Name**
-**Your Email or Contact Information**
+**Luigi Marino**
+**emails@luigi-marino.com**
