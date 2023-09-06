@@ -1,6 +1,6 @@
-# Python Challenge-a-Day with Exercism
+# Daily Code Challenge
 
-Welcome to the Python Challenge-a-Day repository! In this repository, I will be completing a Python coding challenge every day using Exercism. Exercism is a fantastic platform that provides a collection of coding exercises and mentorship to help you improve your coding skills in various programming languages, including Python.
+Welcome to my Daily Code Challenge! In this repository, I will be completing a coding challenge every day using Exercism. Exercism is a fantastic platform that provides a collection of coding exercises and mentorship to help you improve your coding skills in various programming languages, including Python.
 
 ## What is Exercism?
 
