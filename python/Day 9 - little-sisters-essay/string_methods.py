@@ -8,7 +8,15 @@ def capitalize_title(title):
     :return: str - title string in title case (first letters capitalized).
     """
 
-    pass
+    title_split = title.split()
+    capped_title = ''
+
+    for word in title_split:
+        capped_title += f'{word[0].upper()}{word[1:]}'
+        capped_title += ' '
+
+
+    return capped_title[:-1]
 
 
 def check_sentence_ending(sentence):
@@ -18,7 +26,7 @@ def check_sentence_ending(sentence):
     :return: bool - return True if punctuated correctly with period, False otherwise.
     """
 
-    pass
+    return sentence[-1] == '.'
 
 
 def clean_up_spacing(sentence):
@@ -28,7 +36,13 @@ def clean_up_spacing(sentence):
     :return: str - a sentence that has been cleaned of leading and trailing space characters.
     """
 
-    pass
+    if sentence[0] == ' ':
+        sentence = sentence[2:]
+
+    if sentence[-1] == ' ':
+        sentence = sentence[:-2]
+
+    return sentence
 
 
 def replace_word_choice(sentence, old_word, new_word):
@@ -40,4 +54,4 @@ def replace_word_choice(sentence, old_word, new_word):
     :return: str - input sentence with new words in place of old words.
     """
 
-    pass
+    return sentence.replace(old_word, new_word)
