@@ -23,10 +23,10 @@ def concatenate_rounds(rounds_1, rounds_2):
     """
 
     concat_rounds = []
-    for i in rounds_1:
-        concat_rounds.append(i)
-    for i in rounds_2:
-        concat_rounds.append(i)
+    for numbers in rounds_1:
+        concat_rounds.append(numbers)
+    for numbers in rounds_2:
+        concat_rounds.append(numbers)
 
     return concat_rounds
 
