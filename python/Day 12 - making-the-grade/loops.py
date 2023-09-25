@@ -7,8 +7,7 @@ def round_scores(student_scores):
     :param student_scores: list - float or int of student exam scores.
     :return: list - student scores *rounded* to nearest integer value.
     """
-
-    pass
+    return [round(score) for score in student_scores]
 
 
 def count_failed_students(student_scores):
@@ -17,8 +16,12 @@ def count_failed_students(student_scores):
     :param student_scores: list - containing int student scores.
     :return: int - count of student scores at or below 40.
     """
+    failed_students = 0
 
-    pass
+    for score in student_scores:
+        if score <= 40:
+            failed_students += 1
+    return failed_students
 
 
 def above_threshold(student_scores, threshold):
@@ -29,7 +32,12 @@ def above_threshold(student_scores, threshold):
     :return: list - of integer scores that are at or above the "best" threshold.
     """
 
-    pass
+    above_students = []
+    for score in student_scores:
+        if score >= threshold:
+            above_students.append(score)
+
+    return above_students
 
 
 def letter_grades(highest):
@@ -46,7 +54,13 @@ def letter_grades(highest):
             86 <= "A" <= 100
     """
 
-    pass
+    gap = int(highest / 4) - 10
+    results = []
+    for grade_range in range(4):
+        results.append(41 + gap * grade_range)
+    return results
+
+
 
 
 def student_ranking(student_scores, student_names):
@@ -57,7 +71,14 @@ def student_ranking(student_scores, student_names):
     :return: list - of strings in format ["<rank>. <student name>: <score>"].
     """
 
-    pass
+    ranking_list = []
+    position_in_list = 0
+
+    for name in student_names:
+        ranking_list.append(f"{position_in_list+1}. {name}: {student_scores[position_in_list]}")
+        position_in_list += 1
+    
+    return ranking_list
 
 
 def perfect_score(student_info):
@@ -67,4 +88,7 @@ def perfect_score(student_info):
     :return: list - first `[<student name>, 100]` or `[]` if no student score of 100 is found.
     """
 
-    pass
+    for score in student_info:
+        if score[1] == 100:
+            return score
+    return []
