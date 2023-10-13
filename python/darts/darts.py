@@ -1,2 +1,3 @@
 def score(x, y):
-    pass
+
+    return 0
