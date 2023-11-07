@@ -1,5 +1,5 @@
 """Functions to automate Conda airlines ticketing system."""
-
+import math
 
 def generate_seat_letters(number):
     """Generate a series of letters for airline seats.
@@ -13,9 +13,10 @@ def generate_seat_letters(number):
     Example: A, B, C, D
 
     """
+    seat_letters = ['A', 'B', 'C', 'D']
 
-    pass
-
+    for seat in range(number):
+        yield seat_letters[seat % 4]
 
 def generate_seats(number):
     """Generate a series of identifiers for airline seats.
@@ -34,7 +35,12 @@ def generate_seats(number):
 
     """
 
-    pass
+    number = number + 4 if number >= 13 else number
+    letters = generate_seat_letters(number)
+    for seat in range(number):
+        row_number = math.ceil((seat+1) / 4)
+        if row_number != 13:
+            yield f"{str(row_number)}{next(letters)}"
 
 def assign_seats(passengers):
     """Assign seats to passengers.
@@ -46,7 +52,12 @@ def assign_seats(passengers):
 
     """
 
-    pass
+    amount = len(passengers)
+    output = {}
+
+    for passenger, seat_number in zip(passengers, generate_seats(amount)):
+        output[passenger] = seat_number
+    return output
 
 def generate_codes(seat_numbers, flight_id):
     """Generate codes for a ticket.
@@ -57,4 +68,6 @@ def generate_codes(seat_numbers, flight_id):
 
     """
 
-    pass
+    for seat in seat_numbers:
+        base_string = f"{seat}{flight_id}"
+        yield base_string + '0' * (12 - len(base_string))
