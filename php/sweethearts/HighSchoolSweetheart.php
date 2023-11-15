@@ -4,17 +4,17 @@ class HighSchoolSweetheart
 {
     public function firstLetter(string $name): string
     {
-        throw new \BadFunctionCallException("Implement the function");
+        return $name[0];
     }
 
     public function initial(string $name): string
     {
-        throw new \BadFunctionCallException("Implement the function");
+        return $this->firstLetter($name) + ".";
     }
 
     public function initials(string $name): string
     {
-        throw new \BadFunctionCallException("Implement the function");
+        return $this->initial($this->firstLetter($name)) + $this->initial($name(strpos($name, " ")+1));
     }
 
     public function pair(string $sweetheart_a, string $sweetheart_b): string
