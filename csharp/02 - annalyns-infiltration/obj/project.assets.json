@@ -18,11 +18,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Luigi\\OneDrive\\[ 02 ] Development\\[ 01 ] Code Repo\\[ 01 ] ExercismDailyChallenge\\csharp\\00 - hello-world\\HelloWorld.csproj",
-      "projectName": "HelloWorld",
-      "projectPath": "c:\\Users\\Luigi\\OneDrive\\[ 02 ] Development\\[ 01 ] Code Repo\\[ 01 ] ExercismDailyChallenge\\csharp\\00 - hello-world\\HelloWorld.csproj",
+      "projectUniqueName": "c:\\Users\\Luigi\\OneDrive\\[ 02 ] Development\\[ 01 ] Code Repo\\[ 01 ] ExercismDailyChallenge\\csharp\\02 - annalyns-infiltration\\AnnalynsInfiltration.csproj",
+      "projectName": "AnnalynsInfiltration",
+      "projectPath": "c:\\Users\\Luigi\\OneDrive\\[ 02 ] Development\\[ 01 ] Code Repo\\[ 01 ] ExercismDailyChallenge\\csharp\\02 - annalyns-infiltration\\AnnalynsInfiltration.csproj",
       "packagesPath": "C:\\Users\\Luigi\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Luigi\\OneDrive\\[ 02 ] Development\\[ 01 ] Code Repo\\[ 01 ] ExercismDailyChallenge\\csharp\\00 - hello-world\\obj\\",
+      "outputPath": "c:\\Users\\Luigi\\OneDrive\\[ 02 ] Development\\[ 01 ] Code Repo\\[ 01 ] ExercismDailyChallenge\\csharp\\02 - annalyns-infiltration\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Luigi\\AppData\\Roaming\\NuGet\\NuGet.Config"

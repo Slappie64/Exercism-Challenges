@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PMHfPTn1ybuFozuldg8YntowAiAjdX4iWvMoaVz+7kPAo2Gp831WG3mpdj61SOZF1EqdzxcpNiSnaiMeP8T6dA==",
+  "dgSpecHash": "jLU9uOqCTLqbhdLpf6Y+fLmQgs7uPqoeRHrqsHSKxK0tbZZBUljCelyBt3pqoYzsy28nAy/sMKcW2KFVqEbkgQ==",
   "success": false,
-  "projectFilePath": "c:\\Users\\Luigi\\OneDrive\\[ 02 ] Development\\[ 01 ] Code Repo\\[ 01 ] ExercismDailyChallenge\\csharp\\00 - hello-world\\HelloWorld.csproj",
+  "projectFilePath": "c:\\Users\\Luigi\\OneDrive\\[ 02 ] Development\\[ 01 ] Code Repo\\[ 01 ] ExercismDailyChallenge\\csharp\\03 - log-levels\\LogLevels.csproj",
   "expectedPackageFiles": [],
   "logs": [
     {
