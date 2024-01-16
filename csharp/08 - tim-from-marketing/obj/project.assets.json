@@ -18,11 +18,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Luigi\\OneDrive\\[ 02 ] Development\\[ 01 ] Code Repo\\[ 01 ] ExercismDailyChallenge\\csharp\\08 - tim-from-marketing\\TimFromMarketing.csproj",
+      "projectUniqueName": "c:\\Users\\Luigi\\OneDrive\\-02- Development\\-01- Repositories\\-01- ExercismDailyChallenge\\csharp\\08 - tim-from-marketing\\TimFromMarketing.csproj",
       "projectName": "TimFromMarketing",
-      "projectPath": "c:\\Users\\Luigi\\OneDrive\\[ 02 ] Development\\[ 01 ] Code Repo\\[ 01 ] ExercismDailyChallenge\\csharp\\08 - tim-from-marketing\\TimFromMarketing.csproj",
+      "projectPath": "c:\\Users\\Luigi\\OneDrive\\-02- Development\\-01- Repositories\\-01- ExercismDailyChallenge\\csharp\\08 - tim-from-marketing\\TimFromMarketing.csproj",
       "packagesPath": "C:\\Users\\Luigi\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Luigi\\OneDrive\\[ 02 ] Development\\[ 01 ] Code Repo\\[ 01 ] ExercismDailyChallenge\\csharp\\08 - tim-from-marketing\\obj\\",
+      "outputPath": "c:\\Users\\Luigi\\OneDrive\\-02- Development\\-01- Repositories\\-01- ExercismDailyChallenge\\csharp\\08 - tim-from-marketing\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Luigi\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Luigi\\OneDrive\\[ 02 ] Development\\[ 01 ] Code Repo\\[ 01 ] ExercismDailyChallenge\\csharp\\00 - hello-world\\HelloWorld.csproj": {}
+    "c:\\Users\\Luigi\\OneDrive\\-02- Development\\-01- Repositories\\-01- ExercismDailyChallenge\\csharp\\00 - hello-world\\HelloWorld.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Luigi\\OneDrive\\[ 02 ] Development\\[ 01 ] Code Repo\\[ 01 ] ExercismDailyChallenge\\csharp\\00 - hello-world\\HelloWorld.csproj": {
+    "c:\\Users\\Luigi\\OneDrive\\-02- Development\\-01- Repositories\\-01- ExercismDailyChallenge\\csharp\\00 - hello-world\\HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Luigi\\OneDrive\\[ 02 ] Development\\[ 01 ] Code Repo\\[ 01 ] ExercismDailyChallenge\\csharp\\00 - hello-world\\HelloWorld.csproj",
+        "projectUniqueName": "c:\\Users\\Luigi\\OneDrive\\-02- Development\\-01- Repositories\\-01- ExercismDailyChallenge\\csharp\\00 - hello-world\\HelloWorld.csproj",
         "projectName": "HelloWorld",
-        "projectPath": "c:\\Users\\Luigi\\OneDrive\\[ 02 ] Development\\[ 01 ] Code Repo\\[ 01 ] ExercismDailyChallenge\\csharp\\00 - hello-world\\HelloWorld.csproj",
+        "projectPath": "c:\\Users\\Luigi\\OneDrive\\-02- Development\\-01- Repositories\\-01- ExercismDailyChallenge\\csharp\\00 - hello-world\\HelloWorld.csproj",
         "packagesPath": "C:\\Users\\Luigi\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Luigi\\OneDrive\\[ 02 ] Development\\[ 01 ] Code Repo\\[ 01 ] ExercismDailyChallenge\\csharp\\00 - hello-world\\obj\\",
+        "outputPath": "c:\\Users\\Luigi\\OneDrive\\-02- Development\\-01- Repositories\\-01- ExercismDailyChallenge\\csharp\\00 - hello-world\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Luigi\\AppData\\Roaming\\NuGet\\NuGet.Config"

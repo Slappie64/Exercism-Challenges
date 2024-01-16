@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Luigi\\OneDrive\\[ 02 ] Development\\[ 01 ] Code Repo\\[ 01 ] ExercismDailyChallenge\\csharp\\02 - annalyns-infiltration\\AnnalynsInfiltration.csproj": {}
+    "c:\\Users\\Luigi\\OneDrive\\-02- Development\\-01- Repositories\\-01- ExercismDailyChallenge\\csharp\\02 - annalyns-infiltration\\AnnalynsInfiltration.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Luigi\\OneDrive\\[ 02 ] Development\\[ 01 ] Code Repo\\[ 01 ] ExercismDailyChallenge\\csharp\\02 - annalyns-infiltration\\AnnalynsInfiltration.csproj": {
+    "c:\\Users\\Luigi\\OneDrive\\-02- Development\\-01- Repositories\\-01- ExercismDailyChallenge\\csharp\\02 - annalyns-infiltration\\AnnalynsInfiltration.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Luigi\\OneDrive\\[ 02 ] Development\\[ 01 ] Code Repo\\[ 01 ] ExercismDailyChallenge\\csharp\\02 - annalyns-infiltration\\AnnalynsInfiltration.csproj",
+        "projectUniqueName": "c:\\Users\\Luigi\\OneDrive\\-02- Development\\-01- Repositories\\-01- ExercismDailyChallenge\\csharp\\02 - annalyns-infiltration\\AnnalynsInfiltration.csproj",
         "projectName": "AnnalynsInfiltration",
-        "projectPath": "c:\\Users\\Luigi\\OneDrive\\[ 02 ] Development\\[ 01 ] Code Repo\\[ 01 ] ExercismDailyChallenge\\csharp\\02 - annalyns-infiltration\\AnnalynsInfiltration.csproj",
+        "projectPath": "c:\\Users\\Luigi\\OneDrive\\-02- Development\\-01- Repositories\\-01- ExercismDailyChallenge\\csharp\\02 - annalyns-infiltration\\AnnalynsInfiltration.csproj",
         "packagesPath": "C:\\Users\\Luigi\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Luigi\\OneDrive\\[ 02 ] Development\\[ 01 ] Code Repo\\[ 01 ] ExercismDailyChallenge\\csharp\\02 - annalyns-infiltration\\obj\\",
+        "outputPath": "c:\\Users\\Luigi\\OneDrive\\-02- Development\\-01- Repositories\\-01- ExercismDailyChallenge\\csharp\\02 - annalyns-infiltration\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Luigi\\AppData\\Roaming\\NuGet\\NuGet.Config"

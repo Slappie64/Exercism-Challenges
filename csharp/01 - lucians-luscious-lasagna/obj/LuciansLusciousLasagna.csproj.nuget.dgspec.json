@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Luigi\\OneDrive\\[ 02 ] Development\\[ 01 ] Code Repo\\[ 01 ] ExercismDailyChallenge\\csharp\\01 - lucians-luscious-lasagna\\LuciansLusciousLasagna.csproj": {}
+    "c:\\Users\\Luigi\\OneDrive\\-02- Development\\-01- Repositories\\-01- ExercismDailyChallenge\\csharp\\01 - lucians-luscious-lasagna\\LuciansLusciousLasagna.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Luigi\\OneDrive\\[ 02 ] Development\\[ 01 ] Code Repo\\[ 01 ] ExercismDailyChallenge\\csharp\\01 - lucians-luscious-lasagna\\LuciansLusciousLasagna.csproj": {
+    "c:\\Users\\Luigi\\OneDrive\\-02- Development\\-01- Repositories\\-01- ExercismDailyChallenge\\csharp\\01 - lucians-luscious-lasagna\\LuciansLusciousLasagna.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Luigi\\OneDrive\\[ 02 ] Development\\[ 01 ] Code Repo\\[ 01 ] ExercismDailyChallenge\\csharp\\01 - lucians-luscious-lasagna\\LuciansLusciousLasagna.csproj",
+        "projectUniqueName": "c:\\Users\\Luigi\\OneDrive\\-02- Development\\-01- Repositories\\-01- ExercismDailyChallenge\\csharp\\01 - lucians-luscious-lasagna\\LuciansLusciousLasagna.csproj",
         "projectName": "LuciansLusciousLasagna",
-        "projectPath": "c:\\Users\\Luigi\\OneDrive\\[ 02 ] Development\\[ 01 ] Code Repo\\[ 01 ] ExercismDailyChallenge\\csharp\\01 - lucians-luscious-lasagna\\LuciansLusciousLasagna.csproj",
+        "projectPath": "c:\\Users\\Luigi\\OneDrive\\-02- Development\\-01- Repositories\\-01- ExercismDailyChallenge\\csharp\\01 - lucians-luscious-lasagna\\LuciansLusciousLasagna.csproj",
         "packagesPath": "C:\\Users\\Luigi\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Luigi\\OneDrive\\[ 02 ] Development\\[ 01 ] Code Repo\\[ 01 ] ExercismDailyChallenge\\csharp\\01 - lucians-luscious-lasagna\\obj\\",
+        "outputPath": "c:\\Users\\Luigi\\OneDrive\\-02- Development\\-01- Repositories\\-01- ExercismDailyChallenge\\csharp\\01 - lucians-luscious-lasagna\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Luigi\\AppData\\Roaming\\NuGet\\NuGet.Config"
