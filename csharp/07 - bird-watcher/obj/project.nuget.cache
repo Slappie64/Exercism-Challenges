@@ -1,0 +1,45 @@
+{
+  "version": 2,
+  "dgSpecHash": "MwvL3yupgUc7wSylRTGrsP/BbE3Pnkb8Ru/+PAt3G1uTToY+iPZzpc4I4Y0rtvDCfzsgdmu+JkNpQJDOWheY4A==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\slapp\\OneDrive\\-04- Development\\-01- Repositories\\-01- ExercismDailyChallenge\\csharp\\bird-watcher\\BirdWatcher.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.NET.Test.Sdk (>= 16.8.3)' for 'net8.0'.",
+      "libraryId": "Microsoft.NET.Test.Sdk",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'xunit (>= 2.4.1)' for 'net8.0'.",
+      "libraryId": "xunit",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'xunit.runner.visualstudio (>= 2.4.3)' for 'net8.0'.",
+      "libraryId": "xunit.runner.visualstudio",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Exercism.Tests (>= 0.1.0-beta1)' for 'net8.0'.",
+      "libraryId": "Exercism.Tests",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
