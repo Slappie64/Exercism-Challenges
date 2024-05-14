@@ -3642,22 +3642,18 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Luigi\\OneDrive\\-04- Development\\-01- Repositories\\-01- ExercismDailyChallenge\\csharp\\hyper-optimized-telemetry\\HyperOptimizedTelemetry.csproj",
+      "projectUniqueName": "C:\\Users\\Luigi\\OneDrive\\-04- Development\\-01- Repositories\\-01- ExercismDailyChallenge\\csharp\\13 - hyper-optimized-telemetry\\HyperOptimizedTelemetry.csproj",
       "projectName": "HyperOptimizedTelemetry",
-      "projectPath": "C:\\Users\\Luigi\\OneDrive\\-04- Development\\-01- Repositories\\-01- ExercismDailyChallenge\\csharp\\hyper-optimized-telemetry\\HyperOptimizedTelemetry.csproj",
+      "projectPath": "C:\\Users\\Luigi\\OneDrive\\-04- Development\\-01- Repositories\\-01- ExercismDailyChallenge\\csharp\\13 - hyper-optimized-telemetry\\HyperOptimizedTelemetry.csproj",
       "packagesPath": "C:\\Users\\Luigi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Luigi\\OneDrive\\-04- Development\\-01- Repositories\\-01- ExercismDailyChallenge\\csharp\\hyper-optimized-telemetry\\obj\\",
+      "outputPath": "C:\\Users\\Luigi\\OneDrive\\-04- Development\\-01- Repositories\\-01- ExercismDailyChallenge\\csharp\\13 - hyper-optimized-telemetry\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Luigi\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Luigi\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
-      "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
-      },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
@@ -3712,7 +3708,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
   },
@@ -3728,36 +3724,36 @@
       ]
     },
     {
-      "code": "NU1101",
+      "code": "NU1100",
       "level": "Error",
-      "message": "Unable to find package xunit. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "message": "Unable to resolve 'xunit (>= 2.4.1)' for 'net8.0'.",
       "libraryId": "xunit",
       "targetGraphs": [
         "net8.0"
       ]
     },
     {
-      "code": "NU1101",
+      "code": "NU1100",
       "level": "Error",
-      "message": "Unable to find package xunit.runner.visualstudio. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "message": "Unable to resolve 'xunit.runner.visualstudio (>= 2.4.3)' for 'net8.0'.",
       "libraryId": "xunit.runner.visualstudio",
       "targetGraphs": [
         "net8.0"
       ]
     },
     {
-      "code": "NU1101",
+      "code": "NU1100",
       "level": "Error",
-      "message": "Unable to find package Exercism.Tests. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "message": "Unable to resolve 'Exercism.Tests (>= 0.1.0-beta1)' for 'net8.0'.",
       "libraryId": "Exercism.Tests",
       "targetGraphs": [
         "net8.0"
       ]
     },
     {
-      "code": "NU1102",
+      "code": "NU1100",
       "level": "Error",
-      "message": "Unable to find package NuGet.Frameworks with version (>= 5.0.0)\r\n  - Found 1 version(s) in Microsoft Visual Studio Offline Packages [ Nearest version: 4.6.4 ]",
+      "message": "Unable to resolve 'NuGet.Frameworks (>= 5.0.0)' for 'net8.0'.",
       "libraryId": "NuGet.Frameworks",
       "targetGraphs": [
         "net8.0"

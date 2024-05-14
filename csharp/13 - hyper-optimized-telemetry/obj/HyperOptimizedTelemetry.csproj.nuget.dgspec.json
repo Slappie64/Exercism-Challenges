@@ -1,28 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Luigi\\OneDrive\\-04- Development\\-01- Repositories\\-01- ExercismDailyChallenge\\csharp\\hyper-optimized-telemetry\\HyperOptimizedTelemetry.csproj": {}
+    "C:\\Users\\Luigi\\OneDrive\\-04- Development\\-01- Repositories\\-01- ExercismDailyChallenge\\csharp\\13 - hyper-optimized-telemetry\\HyperOptimizedTelemetry.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Luigi\\OneDrive\\-04- Development\\-01- Repositories\\-01- ExercismDailyChallenge\\csharp\\hyper-optimized-telemetry\\HyperOptimizedTelemetry.csproj": {
+    "C:\\Users\\Luigi\\OneDrive\\-04- Development\\-01- Repositories\\-01- ExercismDailyChallenge\\csharp\\13 - hyper-optimized-telemetry\\HyperOptimizedTelemetry.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Luigi\\OneDrive\\-04- Development\\-01- Repositories\\-01- ExercismDailyChallenge\\csharp\\hyper-optimized-telemetry\\HyperOptimizedTelemetry.csproj",
+        "projectUniqueName": "C:\\Users\\Luigi\\OneDrive\\-04- Development\\-01- Repositories\\-01- ExercismDailyChallenge\\csharp\\13 - hyper-optimized-telemetry\\HyperOptimizedTelemetry.csproj",
         "projectName": "HyperOptimizedTelemetry",
-        "projectPath": "C:\\Users\\Luigi\\OneDrive\\-04- Development\\-01- Repositories\\-01- ExercismDailyChallenge\\csharp\\hyper-optimized-telemetry\\HyperOptimizedTelemetry.csproj",
+        "projectPath": "C:\\Users\\Luigi\\OneDrive\\-04- Development\\-01- Repositories\\-01- ExercismDailyChallenge\\csharp\\13 - hyper-optimized-telemetry\\HyperOptimizedTelemetry.csproj",
         "packagesPath": "C:\\Users\\Luigi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Luigi\\OneDrive\\-04- Development\\-01- Repositories\\-01- ExercismDailyChallenge\\csharp\\hyper-optimized-telemetry\\obj\\",
+        "outputPath": "C:\\Users\\Luigi\\OneDrive\\-04- Development\\-01- Repositories\\-01- ExercismDailyChallenge\\csharp\\13 - hyper-optimized-telemetry\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Luigi\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Luigi\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
-        },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
@@ -77,7 +73,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

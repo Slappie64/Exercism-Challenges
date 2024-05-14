@@ -3642,11 +3642,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Luigi\\OneDrive\\-04- Development\\-01- Repositories\\-01- ExercismDailyChallenge\\csharp\\football-match-reports\\FootballMatchReports.csproj",
+      "projectUniqueName": "C:\\Users\\Luigi\\OneDrive\\-04- Development\\-01- Repositories\\-01- ExercismDailyChallenge\\csharp\\17 - football-match-reports\\FootballMatchReports.csproj",
       "projectName": "FootballMatchReports",
-      "projectPath": "C:\\Users\\Luigi\\OneDrive\\-04- Development\\-01- Repositories\\-01- ExercismDailyChallenge\\csharp\\football-match-reports\\FootballMatchReports.csproj",
+      "projectPath": "C:\\Users\\Luigi\\OneDrive\\-04- Development\\-01- Repositories\\-01- ExercismDailyChallenge\\csharp\\17 - football-match-reports\\FootballMatchReports.csproj",
       "packagesPath": "C:\\Users\\Luigi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Luigi\\OneDrive\\-04- Development\\-01- Repositories\\-01- ExercismDailyChallenge\\csharp\\football-match-reports\\obj\\",
+      "outputPath": "C:\\Users\\Luigi\\OneDrive\\-04- Development\\-01- Repositories\\-01- ExercismDailyChallenge\\csharp\\17 - football-match-reports\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Luigi\\AppData\\Roaming\\NuGet\\NuGet.Config"
