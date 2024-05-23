@@ -2,7 +2,6 @@ using System;
 
 class RemoteControlCar
 {
-    // TODO: define the constructor for the 'RemoteControlCar' class
     private int carSpeed;
     private int batteryDrain;
     private int distanceDriven;
@@ -35,7 +34,6 @@ class RemoteControlCar
 
 class RaceTrack
 {
-    // TODO: define the constructor for the 'RaceTrack' class
     private int trackDistance;
 
     public RaceTrack(int trackDistance)

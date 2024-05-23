@@ -1,6 +1,5 @@
 using System;
 
-// TODO: define the 'LogLevel' enum
 enum LogLevel
 {
     Unknown = 0,
