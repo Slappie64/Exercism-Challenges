@@ -1,0 +1,45 @@
+{
+  "version": 2,
+  "dgSpecHash": "dSGBg47LvTkSIRSqVn1AmEaTZDRBj9//cWW9RdSKdFXAO/2oQRgYvuDXU68YwSxRpiQV92ug9v7OAsofpapBGw==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\slapp\\OneDrive\\04-DEVELOPMENT\\Projects\\ExercismDailyChallenge\\csharp\\21 - secure-munchester-united\\SecureMunchesterUnited.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.NET.Test.Sdk (>= 16.8.3)' for 'net8.0'.",
+      "libraryId": "Microsoft.NET.Test.Sdk",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'xunit (>= 2.4.1)' for 'net8.0'.",
+      "libraryId": "xunit",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'xunit.runner.visualstudio (>= 2.4.3)' for 'net8.0'.",
+      "libraryId": "xunit.runner.visualstudio",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Exercism.Tests (>= 0.1.0-beta1)' for 'net8.0'.",
+      "libraryId": "Exercism.Tests",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
