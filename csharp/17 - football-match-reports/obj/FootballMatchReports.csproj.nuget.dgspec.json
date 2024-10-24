@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\slapp\\OneDrive\\04-DEVELOPMENT\\Projects\\ExercismDailyChallenge\\csharp\\17 - football-match-reports\\FootballMatchReports.csproj": {}
+    "C:\\Users\\Luigi\\OneDrive\\04-DEVELOPMENT\\Projects\\Exercism - CSharp Track\\17 - football-match-reports\\FootballMatchReports.csproj": {}
   },
   "projects": {
-    "C:\\Users\\slapp\\OneDrive\\04-DEVELOPMENT\\Projects\\ExercismDailyChallenge\\csharp\\17 - football-match-reports\\FootballMatchReports.csproj": {
+    "C:\\Users\\Luigi\\OneDrive\\04-DEVELOPMENT\\Projects\\Exercism - CSharp Track\\17 - football-match-reports\\FootballMatchReports.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\slapp\\OneDrive\\04-DEVELOPMENT\\Projects\\ExercismDailyChallenge\\csharp\\17 - football-match-reports\\FootballMatchReports.csproj",
+        "projectUniqueName": "C:\\Users\\Luigi\\OneDrive\\04-DEVELOPMENT\\Projects\\Exercism - CSharp Track\\17 - football-match-reports\\FootballMatchReports.csproj",
         "projectName": "FootballMatchReports",
-        "projectPath": "C:\\Users\\slapp\\OneDrive\\04-DEVELOPMENT\\Projects\\ExercismDailyChallenge\\csharp\\17 - football-match-reports\\FootballMatchReports.csproj",
-        "packagesPath": "C:\\Users\\slapp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\slapp\\OneDrive\\04-DEVELOPMENT\\Projects\\ExercismDailyChallenge\\csharp\\17 - football-match-reports\\obj\\",
+        "projectPath": "C:\\Users\\Luigi\\OneDrive\\04-DEVELOPMENT\\Projects\\Exercism - CSharp Track\\17 - football-match-reports\\FootballMatchReports.csproj",
+        "packagesPath": "C:\\Users\\Luigi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Luigi\\OneDrive\\04-DEVELOPMENT\\Projects\\Exercism - CSharp Track\\17 - football-match-reports\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\slapp\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Luigi\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"

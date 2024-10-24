@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\slapp\\OneDrive\\04-DEVELOPMENT\\Projects\\ExercismDailyChallenge\\csharp\\08 - need-for-speed\\NeedForSpeed.csproj": {}
+    "C:\\Users\\Luigi\\OneDrive\\04-DEVELOPMENT\\Projects\\Exercism - CSharp Track\\08 - need-for-speed\\NeedForSpeed.csproj": {}
   },
   "projects": {
-    "C:\\Users\\slapp\\OneDrive\\04-DEVELOPMENT\\Projects\\ExercismDailyChallenge\\csharp\\08 - need-for-speed\\NeedForSpeed.csproj": {
+    "C:\\Users\\Luigi\\OneDrive\\04-DEVELOPMENT\\Projects\\Exercism - CSharp Track\\08 - need-for-speed\\NeedForSpeed.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\slapp\\OneDrive\\04-DEVELOPMENT\\Projects\\ExercismDailyChallenge\\csharp\\08 - need-for-speed\\NeedForSpeed.csproj",
+        "projectUniqueName": "C:\\Users\\Luigi\\OneDrive\\04-DEVELOPMENT\\Projects\\Exercism - CSharp Track\\08 - need-for-speed\\NeedForSpeed.csproj",
         "projectName": "NeedForSpeed",
-        "projectPath": "C:\\Users\\slapp\\OneDrive\\04-DEVELOPMENT\\Projects\\ExercismDailyChallenge\\csharp\\08 - need-for-speed\\NeedForSpeed.csproj",
-        "packagesPath": "C:\\Users\\slapp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\slapp\\OneDrive\\04-DEVELOPMENT\\Projects\\ExercismDailyChallenge\\csharp\\08 - need-for-speed\\obj\\",
+        "projectPath": "C:\\Users\\Luigi\\OneDrive\\04-DEVELOPMENT\\Projects\\Exercism - CSharp Track\\08 - need-for-speed\\NeedForSpeed.csproj",
+        "packagesPath": "C:\\Users\\Luigi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Luigi\\OneDrive\\04-DEVELOPMENT\\Projects\\Exercism - CSharp Track\\08 - need-for-speed\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\slapp\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Luigi\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"

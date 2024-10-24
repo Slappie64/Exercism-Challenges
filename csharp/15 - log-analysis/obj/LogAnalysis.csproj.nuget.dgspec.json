@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\slapp\\OneDrive\\04-DEVELOPMENT\\Projects\\ExercismDailyChallenge\\csharp\\15 - log-analysis\\LogAnalysis.csproj": {}
+    "C:\\Users\\Luigi\\OneDrive\\04-DEVELOPMENT\\Projects\\Exercism - CSharp Track\\15 - log-analysis\\LogAnalysis.csproj": {}
   },
   "projects": {
-    "C:\\Users\\slapp\\OneDrive\\04-DEVELOPMENT\\Projects\\ExercismDailyChallenge\\csharp\\15 - log-analysis\\LogAnalysis.csproj": {
+    "C:\\Users\\Luigi\\OneDrive\\04-DEVELOPMENT\\Projects\\Exercism - CSharp Track\\15 - log-analysis\\LogAnalysis.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\slapp\\OneDrive\\04-DEVELOPMENT\\Projects\\ExercismDailyChallenge\\csharp\\15 - log-analysis\\LogAnalysis.csproj",
+        "projectUniqueName": "C:\\Users\\Luigi\\OneDrive\\04-DEVELOPMENT\\Projects\\Exercism - CSharp Track\\15 - log-analysis\\LogAnalysis.csproj",
         "projectName": "LogAnalysis",
-        "projectPath": "C:\\Users\\slapp\\OneDrive\\04-DEVELOPMENT\\Projects\\ExercismDailyChallenge\\csharp\\15 - log-analysis\\LogAnalysis.csproj",
-        "packagesPath": "C:\\Users\\slapp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\slapp\\OneDrive\\04-DEVELOPMENT\\Projects\\ExercismDailyChallenge\\csharp\\15 - log-analysis\\obj\\",
+        "projectPath": "C:\\Users\\Luigi\\OneDrive\\04-DEVELOPMENT\\Projects\\Exercism - CSharp Track\\15 - log-analysis\\LogAnalysis.csproj",
+        "packagesPath": "C:\\Users\\Luigi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Luigi\\OneDrive\\04-DEVELOPMENT\\Projects\\Exercism - CSharp Track\\15 - log-analysis\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\slapp\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Luigi\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"

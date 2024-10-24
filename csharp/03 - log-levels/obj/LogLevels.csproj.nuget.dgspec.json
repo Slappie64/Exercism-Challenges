@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\slapp\\OneDrive\\04-DEVELOPMENT\\Projects\\ExercismDailyChallenge\\csharp\\03 - log-levels\\LogLevels.csproj": {}
+    "C:\\Users\\Luigi\\OneDrive\\04-DEVELOPMENT\\Projects\\Exercism - CSharp Track\\03 - log-levels\\LogLevels.csproj": {}
   },
   "projects": {
-    "C:\\Users\\slapp\\OneDrive\\04-DEVELOPMENT\\Projects\\ExercismDailyChallenge\\csharp\\03 - log-levels\\LogLevels.csproj": {
+    "C:\\Users\\Luigi\\OneDrive\\04-DEVELOPMENT\\Projects\\Exercism - CSharp Track\\03 - log-levels\\LogLevels.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\slapp\\OneDrive\\04-DEVELOPMENT\\Projects\\ExercismDailyChallenge\\csharp\\03 - log-levels\\LogLevels.csproj",
+        "projectUniqueName": "C:\\Users\\Luigi\\OneDrive\\04-DEVELOPMENT\\Projects\\Exercism - CSharp Track\\03 - log-levels\\LogLevels.csproj",
         "projectName": "LogLevels",
-        "projectPath": "C:\\Users\\slapp\\OneDrive\\04-DEVELOPMENT\\Projects\\ExercismDailyChallenge\\csharp\\03 - log-levels\\LogLevels.csproj",
-        "packagesPath": "C:\\Users\\slapp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\slapp\\OneDrive\\04-DEVELOPMENT\\Projects\\ExercismDailyChallenge\\csharp\\03 - log-levels\\obj\\",
+        "projectPath": "C:\\Users\\Luigi\\OneDrive\\04-DEVELOPMENT\\Projects\\Exercism - CSharp Track\\03 - log-levels\\LogLevels.csproj",
+        "packagesPath": "C:\\Users\\Luigi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Luigi\\OneDrive\\04-DEVELOPMENT\\Projects\\Exercism - CSharp Track\\03 - log-levels\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\slapp\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Luigi\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
